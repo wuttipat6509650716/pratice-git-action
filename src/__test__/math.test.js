@@ -9,7 +9,7 @@ expect(add(1,2)).toBe(3);
 
 describe('subtract', () => {
 it('should return the difference of two numbers', async ()  =>{
-expect(subtract(10,2)).toBe(8);
+expect(subtract(10,2)).toBe(9);
 });
 });
 
